@@ -97,7 +97,7 @@ python --version
 
 1. **Clone the repository**:
    ```bash
-   (https://github.com/YashVardhan-coder/Decodelabs.git)
+   git clone https://github.com/YashVardhan-coder/Decodelabs.git
    ```
 
 2. **Verify the environment**:
